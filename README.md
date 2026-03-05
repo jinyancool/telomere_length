@@ -6,6 +6,9 @@
 [![Snakemake](https://img.shields.io/badge/snakemake-%E2%89%A57.32-brightgreen.svg)](https://snakemake.readthedocs.io)
 
 **Repository**: https://github.com/jinyancool/telomere_length
+
 **Principal Investigator**: Jhuanglab
+
 **Contact**: hiekeen \[at\] gmail.com
+
 telomere length study
