@@ -8,20 +8,17 @@
 
 **Contact**: hiekeen at gmail.com
 
-📖 Overview
+📖 **Overview**
 
 This repository provides the analysis pipeline for evaluating the association between lung telomere length and clinical outcomes in severe pneumonia. Unlike prior studies relying on peripheral blood, this project focuses on disease-site-specific biological reserves.
 
-🎯 Background
+🎯 **Background**
 
 Severe pneumonia outcomes are highly heterogeneous. Host biological reserve influences the injury-repair balance. Telomeres serve as molecular clocks of aging. However, peripheral blood telomere length may not faithfully capture telomere reserves within key pulmonary cell populations. Inadequate lung telomere reserve may bias repair toward maladaptive remodeling.
 
-🚀 Key Features
+🚀 **Key Features**
 
 -   Telomere Estimation: QC and quantification from BALF samples.
-
 -   Multi-omics Integration: Transcriptomic and microbiome profiling.
-
 -   Network Analysis: Telomere-stratified microbiome–transcriptome architecture.
-
 -   Prognostic Modeling: Predicting ventilator-free days and survival.
